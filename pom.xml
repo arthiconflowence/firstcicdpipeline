@@ -40,8 +40,8 @@
 						<username>arthiatsr</username>
 						<password>Iskavsda@01</password>
 						<applicationName>firstcicdpipeline</applicationName>
-						<environment>DEV</environment>
-						<businessGroup>CONFLOWENCE</businessGroup>
+						<environment>Sandbox</environment>
+						<businessGroup>Conflowence</businessGroup>
 					</cloudHubDeployment>
 					<classifier>mule-application</classifier>
 				</configuration>
